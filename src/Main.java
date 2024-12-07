@@ -9,18 +9,18 @@ public class Main {
         Author Davis = new Author("Davis","Davis");
         Author Daniel = new Author("Daniel","Daniel");
         Author Akbar = new Author("Akbar","Akbar");
-        Music symphony = new Music("symphony", EdSheeran, pop,
-                "https://www.youtube.com/watch?v=aatr_2MstrI", 246, 40);
-        Music rock = new Music("subele a la radio", BruceMatters, pop,
-                "https://www.youtube.com/watch?v=dczdR4laGwc", 208, 20);
-        Music byp = new Music("Night call",CleanBandits, pop,
-                "https://www.youtube.com/watch?v=MV_3Dpw-BRY", 256, 55);
-        Music classic = new Music("Real Hero", Davis,pop,
-                "https://www.youtube.com/watch?v=BHgYtKkSEDA",267, 60);
-        Music porp = new Music("Let it happen", Daniel, pop,
-                "https://www.youtube.com/watch?v=pFptt7Cargc", 256, 40);
-        Music nyu = new Music("My Love Mine All Mine ", Akbar, pop,
-                "https://www.youtube.com/watch?v=CwGbMYLjIpQ", 138, 50);
+        Music symphony = new Music("Shape of you", EdSheeran, pop,
+                "https://www.youtube.com/watch?v=JGwWNGJdvx8", 263, 40);
+        Music rock = new Music("Mockinbird", BruceMatters, pop,
+                "https://www.youtube.com/watch?v=S9bCLPwzSC0", 257, 20);
+        Music byp = new Music("byp",CleanBandits, pop,
+                "https://www.youtube.com/watch?v=SA7AIQw-7Ms", 256, 55);
+        Music classic = new Music("One Of The Girls", Davis,pop,
+                "https://www.youtube.com/watch?v=f1r0XZLNlGQ",244, 60);
+        Music porp = new Music("Swim", Daniel, pop,
+                "https://www.youtube.com/watch?v=mC9v5FaLt84", 239, 40);
+        Music nyu = new Music(" International Love", Akbar, pop,
+                "https://www.youtube.com/watch?v=CdXesX6mYUE", 248, 50);
 
 
         User Ryan = new User("Ryan Gosling", "POP", 500);
