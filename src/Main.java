@@ -69,7 +69,7 @@ public class Main {
         byp.getViews();
         byp.getRate();
 
-//        my_love.openVideo();
+      byp.openVideo();
 
     }
 
