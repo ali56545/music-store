@@ -23,21 +23,21 @@ public class Main {
                 "https://www.youtube.com/watch?v=CdXesX6mYUE", 248, 50);
 
 
-        User Ryan = new User("Ryan Gosling", "POP", 500);
+        User Koby = new User("Koby Bryant", "POP", 500);
         User Ali = new User("Evgeniev Ali", "Rap", 120);
         Ali.buyMusic(symphony,2);
-        Ryan.buyMusic(classic,2);
+        Koby.buyMusic(classic,2);
 
 
-//        Ryan.getBalance();
-//        Ryan.buyMusic(night_call);
-//        Ryan.buyMusic(real_hero);
-//        Ryan.buyMusic(night_call);
-//        Ryan.buyMusic(real_hero);
-//        Ryan.buyMusic(let_it_happen);
-        Ryan.buyMusic(byp, 5);
-//        Ryan.getBalance();
-        Ryan.getPlaylist();
+//        Koby.getBalance();
+//        Koby.buyMusic(night_call);
+//        Koby.buyMusic(real_hero);
+//        Koby.buyMusic(night_call);
+//        Koby.buyMusic(real_hero);
+//        Koby.buyMusic(let_it_happen);
+        Koby.buyMusic(byp, 5);
+//        Koby.getBalance();
+        Koby.getPlaylist();
 
 //        Ali.getBalance();
 //        Ali.buyMusic(symphony);
@@ -54,12 +54,12 @@ public class Main {
 //        Ali.getBalance();
         Ali.getPlaylist();
 
-        Ryan.listenMusic(porp);
-        Ryan.listenMusic(classic);
-        Ryan.listenMusic(byp);
-        Ryan.listenMusic(byp);
-        Ryan.listenMusic(byp);
-        Ryan.listenMusic(byp);
+        Koby.listenMusic(porp);
+        Koby.listenMusic(classic);
+        Koby.listenMusic(byp);
+        Koby.listenMusic(byp);
+        Koby.listenMusic(byp);
+        Koby.listenMusic(byp);
 
         Ali.listenMusic(byp);
         Ali.listenMusic(byp);
